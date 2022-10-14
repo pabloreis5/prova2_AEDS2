@@ -12,3 +12,33 @@
 	<stdio.h>
 	"funcionarios.h"
 
+1665689877 source:c:\users\user\desktop\aeds2\ex1\main.c
+	<stdio.h>
+	"funcionarios.h"
+
+1665765994 c:\users\user\desktop\aeds2\ex1\funcionarios.h
+	<stdio.h>
+
+1665766013 source:c:\users\user\desktop\aeds2\ex1\funcionarios.c
+	<stdlib.h>
+	<string.h>
+	"funcionarios.h"
+
+1665765808 source:c:\users\user\desktop\aeds2\ex1\lista.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"lista.h"
+
+1665765764 c:\users\user\desktop\aeds2\ex1\lista.h
+
+1665765915 source:c:\users\user\desktop\aeds2\ex1\particao.c
+	"funcionarios.h"
+	<stdlib.h>
+	<limits.h>
+	"particao.h"
+
+1665765833 c:\users\user\desktop\aeds2\ex1\particao.h
+	<stdio.h>
+	"lista.h"
+

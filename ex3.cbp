@@ -35,9 +35,17 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="funcionarios.h" />
+		<Unit filename="lista.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lista.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="particao.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="particao.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
